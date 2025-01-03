@@ -24,6 +24,8 @@ Here are a few projects I've been working on:
 
 - [survey-site](https://github.com/z3co/survey-site): A website for creating and answering surveys.
 - [CloudWebServer](https://github.com/z3co/CloudWebServer): A website for uploading files.
+- [Stealth Protect](https://github.com/z3co/StealthProtect): Protects your computer from prying eyes by adding an extra security measure, that they will not see coming.
+
 
 ## GitHub Stats
 
