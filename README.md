@@ -1,31 +1,32 @@
 # Hi, I'm z3co! 👋
 
-Welcome to my GitHub profile. I'm a passionate software developer with a keen interest in web development and open-source projects. 
-Here you'll find a collection of my projects, contributions, and some of my favorite tools and technologies.
+Welcome to my GitHub profile. I am a student developer from Denmark with a strong interest in web development, open-source projects, and the Linux ecosystem—especially Arch Linux. Here you'll find a collection of my projects, contributions, and some of my favorite tools and technologies.
 
 ## About Me
 
-- 🔭 I’m currently working on [a survey site in nodejs](https://github.com/z3co/survey-site)
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning TypeScript and focusing on modern stacks like T3 (TypeScript, Tailwind CSS, tRPC, Next.js)
+- 🐧 I love Arch Linux—and all Linux distributions
 - 📫 How to reach me: Jepper123411@proton.me
 
 ## Languages and Tools
 
 Here are some of the languages and tools I work with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-black?style=flat-square&logo=arch-linux)
 
 ## My Projects
 
 Here are a few projects I've been working on:
 
-- [survey-site](https://github.com/z3co/survey-site): A website for creating and answering surveys.
-- [CloudWebServer](https://github.com/z3co/CloudWebServer): A website for uploading files.
-- [Stealth Protect](https://github.com/z3co/StealthProtect): Protects your computer from prying eyes by adding an extra security measure, that they will not see coming.
-
+- [Stealth Protect](https://github.com/z3co/StealthProtect): Adds an extra security layer to your computer.
+- [dev-env](https://github.com/z3co/dev-env): Scripts to quickly set up an Arch Linux environment to my preferences.
 
 ## GitHub Stats
 
